@@ -8,8 +8,8 @@ The purpose of this portfolio is to demonstrate my understanding of **game QA wo
 ---
 
 ## 📂 Repository Structure
-
-```Game-Testing-Portfolio/
+```
+Game-Testing-Portfolio/
 │
 ├── 📱 Mobile-Games/
 │   ├── Swordigo/
@@ -63,8 +63,8 @@ The purpose of this portfolio is to demonstrate my understanding of **game QA wo
 │   └── Test_Summary_Template.docx
 │
 ├── 📘 README.md
-└── 📜 LICENSE```
-
+└── 📜 LICENSE
+```
 
 
 
