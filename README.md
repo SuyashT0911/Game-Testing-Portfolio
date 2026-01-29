@@ -11,26 +11,60 @@ The purpose of this portfolio is to demonstrate my understanding of **game QA wo
 
 Game-Testing-Portfolio/
 │
-├── Mobile-Games/
-│ └── Game-Name/
-│ ├── 01_Test-Cases/
-│ ├── 02_Bug-Reports/
-│ ├── 03_Screenshots/
-│ ├── 04_Videos/
-│ └── 05_Test-Summary/
+├── 📱 Mobile-Games/
+│   ├── Swordigo/
+│   │   ├── 01_Test-Cases/
+│   │   │   └── Swordigo_Test_Cases.xlsx
+│   │   │
+│   │   ├── 02_Bug-Reports/
+│   │   │   └── Swordigo_Bug_Report.docx
+│   │   │
+│   │   ├── 03_Screenshots/
+│   │   │   ├── UI_Issues/
+│   │   │   └── Gameplay_Issues/
+│   │   │
+│   │   ├── 04_Videos/
+│   │   │   └── Bug_Reproduction_Videos/
+│   │   │
+│   │   ├── 05_Test-Summary/
+│   │   │   └── Swordigo_Test_Summary.pdf
+│   │   │
+│   │   └── README.md
+│   │
+│   └── Another-Mobile-Game/
+│       └── (same structure)
 │
-├── PC-Games/
-│ └── Game-Name/
-│ ├── 01_Test-Cases/
-│ ├── 02_Bug-Reports/
-│ ├── 03_Screenshots/
-│ ├── 04_Videos/
-│ └── 05_Test-Summary/
+├── 💻 PC-Games/
+│   ├── GTA-V/
+│   │   ├── 01_Test-Cases/
+│   │   │   └── GTA_V_Test_Cases.xlsx
+│   │   │
+│   │   ├── 02_Bug-Reports/
+│   │   │   └── GTA_V_Bug_Report.docx
+│   │   │
+│   │   ├── 03_Screenshots/
+│   │   │   ├── Graphics_Issues/
+│   │   │   └── Performance_Issues/
+│   │   │
+│   │   ├── 04_Videos/
+│   │   │   └── Crash_and_FPS_Issues/
+│   │   │
+│   │   ├── 05_Test-Summary/
+│   │   │   └── GTA_V_Test_Summary.pdf
+│   │   │
+│   │   └── README.md
+│   │
+│   └── Another-PC-Game/
+│       └── (same structure)
 │
-└── Templates/
-├── Test_Case_Template.xlsx
-├── Bug_Report_Template.docx
-└── Test_Summary_Template.docx
+├── 📄 Templates/
+│   ├── Test_Case_Template.xlsx
+│   ├── Bug_Report_Template.docx
+│   └── Test_Summary_Template.docx
+│
+├── 📘 README.md
+└── 📜 LICENSE
+
 
 
 
